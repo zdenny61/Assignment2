@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 //
 //  BeerSong.c
 //  BeerSonG
@@ -35,5 +32,4 @@ void Ninety_Nine_Bottles_of_Beer(){
    }
     
     
-}
->>>>>>> implementation
+} 
