@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]) {
 
 //Ninety_Nine_Bottles_of_Beer() function
 void Ninety_Nine_Bottles_of_Beer(){
-    
+     
 //print out song
    for (int i = 99; i>0; i--) {
        
